@@ -19,20 +19,15 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Sistema de Gestão para a Farmácia Vida Saudável*
 
-# Grupo: *<Nome_do_seu_Grupo>*
-
+# Grupo: SarziSolo
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*Este projeto é um software para a Farmácia Vida Saudável, um estabelecimento de pequeno porte que busca modernizar e otimizar sua gestão interna. O sistema permitirá o controle eficiente de vendas, estoque, cadastro de clientes e geração de relatórios gerenciais, gerenciando os processos manuais atualmente usados. O sistema atende tanto às demandas operacionais dos atendentes quanto às necessidades administrativas do gestor da farmácia, garantindo agilidade, organização e precisão no atendimento ao cliente.*
 
 # Documentação
 
 Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://<usuario>.github.io/UML-Classroom-FCI/blob/master/docs/index.md**
 
 
-
-# Releases
-
-Deverá ser publicado um release ao término de cada entrega do projeto.
