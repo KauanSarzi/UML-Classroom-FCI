@@ -217,7 +217,8 @@ Os **logs devem ser armazenados por no mínimo 5 anos** e protegidos contra **al
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![image](https://github.com/user-attachments/assets/aa099b9a-f891-4388-9c02-4834f199ec53)
+
 
 # Referências
 
