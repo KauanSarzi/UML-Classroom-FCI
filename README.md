@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *Sistema de Gestão para a Farmácia Vida Saudável*
 
-# Grupo: SarziSolo
+# Grupo: KauanSarzi
 # Descrição
 
 *Este projeto é um software para a Farmácia Vida Saudável, um estabelecimento de pequeno porte que busca modernizar e otimizar sua gestão interna. O sistema permitirá o controle eficiente de vendas, estoque, cadastro de clientes e geração de relatórios gerenciais, gerenciando os processos manuais atualmente usados. O sistema atende tanto às demandas operacionais dos atendentes quanto às necessidades administrativas do gestor da farmácia, garantindo agilidade, organização e precisão no atendimento ao cliente.*
