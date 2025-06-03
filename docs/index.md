@@ -207,7 +207,8 @@ Os **logs devem ser armazenados por no mínimo 5 anos** e protegidos contra **al
 
 # Diagrama de Classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![image](https://github.com/user-attachments/assets/cece11b6-b7fa-4b85-94f8-cdcc71204143)
+
 
 # Diagrama de Estados
 
