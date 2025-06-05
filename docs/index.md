@@ -226,4 +226,4 @@ Os **logs devem ser armazenados por no mínimo 5 anos** e protegidos contra **al
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Material de Engenharia De Software disponibilizado pelo Professor Dr Rodrigo Silva
