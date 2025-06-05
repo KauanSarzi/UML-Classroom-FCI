@@ -215,6 +215,8 @@ Os **logs devem ser armazenados por no mínimo 5 anos** e protegidos contra **al
 
 ![image](https://github.com/user-attachments/assets/04e0e1e5-2245-4910-9a48-b8f780e067ab)
 
+**Não encontrei a bolinha adequada para o "final"
+
 
 
 # Diagrama de Implantação
