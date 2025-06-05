@@ -203,7 +203,8 @@ Os **logs devem ser armazenados por no mínimo 5 anos** e protegidos contra **al
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![image](https://github.com/user-attachments/assets/c3af037a-0a75-43f1-9e06-edc7015ef606)
+
 
 # Diagrama de Classes
 
